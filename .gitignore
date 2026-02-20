@@ -1,0 +1,12 @@
+# Archivos de Word
+*.docx
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local VSCode
+.vscode/
+
+# Archivos de prueba si no quieres subirlos
+pruebas/
